@@ -1,4 +1,5 @@
 import streamlit as st
+import os
 from voice_module import speech_to_text
 from nlp_module import generate_sql_from_text
 from sql_module import init_db, execute_query
