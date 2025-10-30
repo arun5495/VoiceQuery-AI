@@ -2,5 +2,4 @@ streamlit
 SpeechRecognition
 pandas
 requests==2.25.1
-streamlit_lottie==0.0.3
 websockets==10.4
